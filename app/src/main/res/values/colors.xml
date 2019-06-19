@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="event_color_0">#f15a4a</color>
+    <color name="event_color_1">#ff7e00</color>
+    <color name="event_color_2">#f5b762</color>
+    <color name="event_color_3">#08c31e</color>
+    <color name="event_color_4">#5bdd83</color>
+    <color name="event_color_5">#5671f5</color>
+    <color name="event_color_6">#4059d0</color>
+    <color name="event_color_7">#008597</color>
+    <color name="event_color_8">#00594B</color>
+    <color name="event_color_9">#D81B60</color>
+    <color name="event_color_10">#5671f5</color>
+    <color name="event_color_11">#a0b0ff</color>
+    <color name="event_color_12">#4059d0</color>
+    <color name="event_color_13">#A6E9EC</color>
+    <color name="event_color_14">#a781ee</color>
+    <color name="event_color_15">#1996f9</color>
+    <color name="event_color_16">#FFA430</color>
+    <color name="event_color_17">#FF0044</color>
+    <color name="event_color_18">#A948FF</color>
+    <color name="event_color_19">#00D4A5</color>
+
+
+</resources>
